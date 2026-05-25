@@ -1,1 +1,1 @@
-# Meri
+# Computer Graphics play-ground
